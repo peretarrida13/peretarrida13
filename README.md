@@ -1,5 +1,7 @@
-### Hi there 👋
-![github](https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=GitHub&logoColor=white)]
+## Hi there 👋
+### 🚀 About Me 
+🎓 I am Pere Tarrida Domingo, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Computer Science & Engineering** at FIB-UPC.
+
 <!--
 **peretarrida13/peretarrida13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
