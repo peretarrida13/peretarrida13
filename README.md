@@ -1,6 +1,6 @@
 ## Hi there <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="29px" height="29px">
 ### 🚀 About Me 
-🎓 I am Pere Tarrida Domingo, a **Front End Web Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Computer Science & Engineering** at FIB-UPC.
+🎓 I am Pere Tarrida Domingo, a **FullStack Developer** (specializing in **React Applications**). I am also Pursuing my Bachelor in **Computer Science & Engineering** at FIB-UPC.
 
 Working at UPCnet as a Software Engineer (Intern)
 
