@@ -6,8 +6,6 @@ Working at UPCnet as a Software Engineer (Intern)
 
 Find More about me in my personal webpage www.peretarrida.com
 
-- 🔭 I’m currently working on My Startup Spanner Services
-- 🌱 I’m currently learning Flutter
 <!--
 **peretarrida13/peretarrida13** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
